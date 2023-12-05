@@ -1,1 +1,1 @@
-# super-chain-KMAU-cloud-scraper
+# Super-Chain-KMAU-Cloud-Scraper
